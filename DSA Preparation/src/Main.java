@@ -10,7 +10,6 @@ void main() {
         // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
         IO.println("i = " + i);
     }
+    ArrayProject a= new ArrayProject();
 
-    Ganesha mushika=new Ganesha();
-    System.out.println( mushika.callGanesha());
 }
